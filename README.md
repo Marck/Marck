@@ -1,7 +1,7 @@
 ## Welcome to my page
 
 A geek who wants to make as much stuff helpfull and automated.
-Currently busy creating [Ansible](https://github.com/ansible/ansible) playbooks and roles, learning [Openshift](https://docs.openshift.com/) and making a smart home
+Currently busy creating [Ansible](https://github.com/ansible/ansible) playbooks and roles, learning [Openshift](https://docs.openshift.com/), writing Python code and making a smart home using [Home Assistant](https://www.home-assistant.io/).
 
 ---
 
